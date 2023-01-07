@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anmolp476@gmail.com**
 
-- ⚡ Fun fact **I like to do Origami sometimes in my sparetime!**
+- ⚡ Fun fact **I like to do origami sometimes in my sparetime!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
