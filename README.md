@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Next.js, TailwindCSS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-anmolp476.vercel.app](https://portfolio-anmolp476.vercel.app)
-
 - 💬 Ask me about **React, The MERN stack**
 
 - 📫 How to reach me **anmolp476@gmail.com**
